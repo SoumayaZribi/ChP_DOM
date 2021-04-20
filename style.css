@@ -1,0 +1,17 @@
+body {
+    background-image: url("background.jpg");
+  
+   }
+
+   .card1 {
+    border: 1px solid black;
+    margin: 50px 100px 100px 200px;;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    padding-left: 200px;
+    padding-inline-end: 10%;
+    background-color: rgb(212, 223, 226);
+    
+   
+}
+
